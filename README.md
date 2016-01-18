@@ -1,6 +1,6 @@
-# movieReview
+# Todo App
 
-**movieReview** is a movies app using Ruby on Rails.
+**Todo App** is a todo app using Ruby on Rails.
 
 Time spent: **2** hours spent in total
 
