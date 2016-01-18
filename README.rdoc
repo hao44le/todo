@@ -1,28 +1,31 @@
-== README
+# movieReview
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**movieReview** is a movies app using Ruby on Rails.
 
-Things you may want to cover:
+Time spent: **2** hours spent in total
 
-* Ruby version
+## User Stories
 
-* System dependencies
+The following **required** functionality is complete:
 
-* Configuration
+- [X] User can see lits of todo lists.
+- [X] User can edit existing todo lists.
+- [X] User can create todo lists.
+- [X] User can delete existing todo lists.
+- [X] User can add todo items todo lists.
+- [X] User can edit todo items todo lists.
+- [X] User can delete todo items todo lists.
 
-* Database creation
+## Image Screenshot 
 
-* Database initialization
+Here's a Screenshot of implemented user stories:
 
-* How to run the test suite
+<img src='1.png' title='First' width='' alt='Video Walkthrough' />
+<img src='2.png' title='Second' width='' alt='Video Walkthrough' />
+<img src='3.png' title='Third' width='' alt='Video Walkthrough' />
+<img src='4.png' title='Fourth' width='' alt='Video Walkthrough' />  
+<img src='5.png' title='Fifth' width='' alt='Video Walkthrough' />
 
-* Services (job queues, cache servers, search engines, etc.)
+## Notes
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Follow the tutorail on [YouTube](https://www.youtube.com/watch?v=fd1Vn-Wvy2w&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=6).
